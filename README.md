@@ -1,4 +1,4 @@
-### Hi there 👋
+## Seja bem-vindo! Esse repositório contém projetos que estudei em cursos, e também projetos pessoais!
 
 <!--
 **MateusGouveia70/MateusGouveia70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
