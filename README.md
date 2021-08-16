@@ -1,17 +1,6 @@
-## Seja bem-vindo! Esse repositório contém projetos que estudei em cursos, e também projetos pessoais!
+## Seja bem-vindo ao meu repositório! neste repositório estão projetos pessoais e que aprendi através de cursos e treinamentos!
 
 
-<div>
-  <a href="https://github.com/mateusgouveia70">
-</div>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusgouveia70&count_private=true&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgouveia70&theme=radical">
-   
-<div style"display: inline_block"><br>
-  
-  
-</div>
 
 
 <!--
