@@ -1,4 +1,4 @@
-## Seja bem-vindo ao meu repositório! neste repositório estão projetos pessoais e que aprendi através de cursos e treinamentos!
+## Seja bem-vindo ao meu repositório! Nele estão projetos pessoais e que aprendi através de cursos e treinamentos!
 
 
 
